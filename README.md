@@ -1,3 +1,19 @@
+## Instrucciones para ejecutar el proyecto
+
+Para ejecutar el proyecto, sigue estos pasos:
+
+1. Abre una terminal en el directorio del proyecto.
+2. Ejecuta el siguiente comando para instalar las dependencias:
+   ```bash
+   npm install
+   ```
+3. Luego un
+    ```bash
+    npm start
+    ```
+4. El proyecto utiliza una base de datos alojada en Neon. Las credenciales necesarias para acceder a esta base de datos están almacenadas en el archivo .env, y deberias haber recibido un acceso a la Base de datos de Neon para poder visualizarla ya que fueron creadas todas las tablas y relaciones asi para este ejemplo practico solo se use una.
+
+
 # Desafío Técnico Nodejs
 
 La evaluación implica acceder a una base de datos PostgreSQL y devolver resultados a través de una API que se construirá mediante el uso de JavaScript. Solo hay algunos requisitos que deben cumplirse al completar la evaluación:
