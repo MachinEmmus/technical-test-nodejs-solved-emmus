@@ -1,0 +1,11 @@
+{"level":"error","message":"Error al obtener todas las películas: params is not defined","timestamp":"2024-04-03T22:08:16.771Z"}
+{"level":"error","message":"Error al obtener todas las películas: params is not defined","timestamp":"2024-04-03T22:08:52.620Z"}
+{"level":"info","message":"Endpoint de obtener todas las películas llamado correctamente","timestamp":"2024-04-03T22:09:24.924Z"}
+{"level":"info","message":"Endpoint de obtener todas las películas llamado correctamente","timestamp":"2024-04-03T22:09:34.112Z"}
+{"level":"info","message":"Endpoint de obtener todas las películas llamado correctamente","timestamp":"2024-04-03T22:09:51.740Z"}
+{"level":"info","message":"Endpoint de obtener una película por ID llamado correctamente","timestamp":"2024-04-03T22:10:01.487Z"}
+{"level":"info","message":"Endpoint de crear una película llamado correctamente","timestamp":"2024-04-03T22:12:13.172Z"}
+{"level":"info","message":"Endpoint de actualizar una película llamado correctamente","timestamp":"2024-04-03T22:12:36.408Z"}
+{"level":"info","message":"Endpoint de obtener una película por ID llamado correctamente","timestamp":"2024-04-03T22:12:42.043Z"}
+{"level":"info","message":"Endpoint de obtener todas las películas llamado correctamente","timestamp":"2024-04-03T22:12:45.707Z"}
+{"level":"info","message":"Endpoint de eliminar una película llamado correctamente","timestamp":"2024-04-03T22:13:05.487Z"}
